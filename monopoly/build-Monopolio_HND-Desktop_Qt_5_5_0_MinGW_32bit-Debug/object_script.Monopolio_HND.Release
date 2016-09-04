@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\opciones.o
+./release\juego.o
+./release\game.o
+./release\player.o
+./release\properties.o
+./release\bank.o
+./release\carta.o
+./release\stations.o
+./release\utilities.o
+./release\moc_opciones.o
+./release\moc_juego.o
+);

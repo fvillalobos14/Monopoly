@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\opciones.o
+./debug\juego.o
+./debug\game.o
+./debug\player.o
+./debug\properties.o
+./debug\bank.o
+./debug\carta.o
+./debug\stations.o
+./debug\utilities.o
+./debug\moc_opciones.o
+./debug\moc_juego.o
+);
